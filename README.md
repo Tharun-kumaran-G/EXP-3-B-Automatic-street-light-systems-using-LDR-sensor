@@ -5,11 +5,11 @@ To measure the LDR Sensor using Photoresistor with Arduino UNO Board/ESP-32 usin
 
 ## Hardware / Software Tools required:
 
-PC/ Laptop with Internet connection
-Tinker CAD tool (Online)
-Arduino UNO 
-Board/ESP-32
-Photoresistor
+- PC/ Laptop with Internet connection
+- Tinker CAD tool (Online)
+- Arduino UNO 
+- Board/ESP-32
+- Photoresistor
   
 ## Circuit Diagram:
 
